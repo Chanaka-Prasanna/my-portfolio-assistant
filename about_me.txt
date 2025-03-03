@@ -1,0 +1,152 @@
+D.M Chanaka Prasanna Dissanayaka
+================================
+
+Personal Information
+--------------------
+Full Name: Dissanayaka Mudiyanselage Chanaka Prasanna Dissanayaka
+Calling Name: Chanaka
+Birth Date: November 11, 2000
+Born and Raised in: Kurunegala, Sri Lanka
+City: Polpithigama
+District: Kurunegala
+Province: North Western Province
+Country: Sri Lanka
+
+Academic Background
+-------------------
+School Education:
+- School: Dewanampiyathissa Central College, Nikawewa, Moragollagama
+- Ordinary Level (O/L) Results: 8As, 1B
+- Advanced Level (A/L) Results: 1A, 2Bs
+- Z-Score: 1.8114
+
+University Education:
+- University: University of Moratuwa
+- Faculty: Faculty of Information Technology
+
+Work Experience
+---------------
+Intern Software Engineer:
+- Company: Infinity Innovators
+- Location: Bambalapitiya, Colombo 03
+
+Freelancer:
+Link to gig (Machine Learning): https://www.fiverr.com/s/akvWwPW
+Link to gig (Web Development): https://www.fiverr.com/s/e60VwzD
+
+
+About Me
+--------
+AI/ML Enthusiast | Blogger | Undergraduate at the University of Moratuwa | Technology Explorer
+
+I am a final-year undergraduate passionate about Artificial Intelligence (AI) and Machine Learning (ML). 
+I enjoy discovering new technologies and experimenting with innovative ideas. My interests include researching 
+and exploring cutting-edge advancements in the tech world.
+
+As a blogger, I share insights and write about the latest trends and developments in AI and ML. I am always eager 
+to learn and grow, pushing the boundaries of what’s possible.
+
+Feel free to connect with me to share insights, collaborate on projects, or discuss the latest trends in AI and ML.
+
+Contact Information
+-------------------
+Email: chanakapinfo@gmail.com
+Mobile: +94 765 602 4490
+
+Portfolio
+---------
+Website: https://chanakaprasanna.com
+
+Social Media
+------------
+GitHub: https://github.com/Chanaka-Prasanna
+LinkedIn: https://www.linkedin.com/in/chanaka-prasanna/
+Medium: https://medium.com/@chanakapinfo
+X (Twitter): https://x.com/Chanaka7518
+
+Blogs
+-----
+FutureWiseTech: https://futurewisetech.com/
+Medium: https://medium.com/@chanakapinfo
+
+Major Interests
+---------------
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- Digital Image Processing
+- Software Development
+
+Technical Skills
+----------------
+Programming Languages:
+- Java, Python, JavaScript, TypeScript
+
+Web Development:
+- Next.js, React, React Native
+
+Mobile Development:
+- React Native, React Native Expo
+
+Databases:
+- MySQL, DynamoDB, MongoDB, Appwrite
+
+AI/ML Tools:
+- Scikit-learn, TensorFlow, Pandas, Matplotlib, TF Serving
+
+Cloud & DevOps:
+- AWS, Docker, Jenkins, Google Cloud
+
+UI/UX Design:
+- Figma, Ant Design, ActernityUI
+
+Other Tools & Technologies:
+- React Refine, LangChain, GitHub, Node.js, Express.js
+
+Extra-Curricular Activities
+---------------------------
+- CodeRush (2022, 2023): Participant (Intra-faculty coding competition organized by INTECS, University of Moratuwa)
+- Tech Triathlon (2023): Participant (The ultimate fusion of Engineering, AI, and Design, organized by Rootcode)
+
+Projects
+--------
+1. Chat with PDFs - Intelligent Document Interaction (Nov 2024)
+   - Allows interaction with PDF documents by asking specific questions and receiving context-driven answers.
+   - Technologies: Google Gemini Pro
+
+2. Multilanguage Invoice Extractor (Oct 2024)
+   - Extracts and interprets invoice data in multiple languages using advanced AI techniques.
+   - Skills: GenAI, Python, Streamlit, Google Gemini, PIL
+
+3. Personal Portfolio Website (Sep 2024)
+   - A well-organized platform showcasing my professional journey, skills, and projects.
+   - Technologies: Next.js, Tailwind CSS, TypeScript
+
+4. Promptopia (Aug 2024 - Sep 2024)
+   - A full-stack web application for sharing and exploring prompts.
+   - Features Google OAuth, prompt sharing, and session management.
+   - Technologies: Full-stack development
+
+5. MyImaginator (Ongoing)
+   - An AI-powered web app generating personalized social media captions using the Gemini API.
+   - Technologies: Next.js, Tailwind CSS, TypeScript, Appwrite
+
+6. MyRide (Jan 2024 - June 2024)
+   - A comprehensive vehicle management mobile app that simplifies parking, station locating, and service access for users.
+   - Key Features:
+     - Built with serverless architecture on AWS, using Lambda and DynamoDB.
+     - Integrated real-time notifications and Google Maps for location-based services.
+     - Designed user interfaces for park owners and users to manage parks and schedule rentals.
+     - Developed APIs for parks, service stations, community services, and notifications.
+   - Technologies: AWS, React Native TypeScript, Node.js
+
+7. Terra
+   - A cross-platform video-sharing app with React Native Expo.
+   - Key Features:
+     - Streamlined video uploading process.
+     - Bookmarking functionality.
+     - Dedicated profile section for personalized user management.
+     - Secure authentication and user registration via email.
+   - Technologies: React Native Expo, Tailwind CSS, TypeScript, Appwrite

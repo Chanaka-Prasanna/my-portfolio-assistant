@@ -1,2 +1,15 @@
 fastapi==0.100.0
 hypercorn==0.14.4
+langchain
+community 
+langchainhub
+beautifulsoup4
+langchain-text-splitters
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-pinecone
+bs4
+
+
+
